@@ -19,6 +19,12 @@ It allows developers to send HTTP requests, customize headers and body, and view
 
 ---
 
+## 🌐 Live Demo
+
+👉 https://api-console-react.netlify.app/
+
+---
+
 ## 🖥️ Preview
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c99ff052-afda-46f2-bd45-1bebdd072d70" />
