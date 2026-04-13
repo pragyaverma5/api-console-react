@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# 🚀 API Console (React)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, Postman-like API testing tool built using React.  
+It allows developers to send HTTP requests, customize headers and body, and view formatted responses in a clean UI.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## ✨ Features
 
-### `npm start`
+- 🔹 Send HTTP requests (GET, POST, PUT, DELETE)
+- 🔹 Add custom headers (Authorization, tokens, etc.)
+- 🔹 Send JSON request body
+- 🔹 View formatted JSON response
+- 🔹 Display HTTP status codes
+- 🔹 Copy response to clipboard
+- 🔹 Tab-based UI (Body / Headers)
+- 🔹 Error handling for invalid requests & JSON
+- 🔹 Clean and minimal developer-friendly UI
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🖥️ Preview
 
-### `npm test`
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c99ff052-afda-46f2-bd45-1bebdd072d70" />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0e964c4b-d58b-4316-a835-b276a7e8af4c" />
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠️ Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Frontend:** React.js
+- **Language:** JavaScript (ES6+)
+- **API Handling:** Fetch API
+- **Styling:** Inline CSS (custom UI design)
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## ⚙️ How It Works
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Enter an API endpoint URL  
+2. Select HTTP method (GET, POST, PUT, DELETE)  
+3. Add request body (for POST/PUT)  
+4. Add headers if required  
+5. Click **Send**  
+6. View response + status instantly  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🚀 Getting Started
 
-## Learn More
+### 1. Clone the repository
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+git clone https://github.com/pragyaverma5/api-console-react.git
+cd api-console-react
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Pragya Verma
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
