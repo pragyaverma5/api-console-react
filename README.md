@@ -63,11 +63,6 @@ git clone https://github.com/pragyaverma5/api-console-react.git
 cd api-console-react
 ```
 
----
-
-## Author
-
-Pragya Verma
 
 
 
