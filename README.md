@@ -1,6 +1,6 @@
 # 🚀 API Console (React)
 
-A modern, Postman-like API testing tool built using React.  
+A modern, API testing tool built using React.  
 It allows developers to send HTTP requests, customize headers and body, and view formatted responses in a clean UI.
 
 ---
