@@ -1,11 +1,11 @@
-# 🚀 API Console (React)
+#  API Console (React)
 
 A modern, API testing tool built using React.  
 It allows developers to send HTTP requests, customize headers and body, and view formatted responses in a clean UI.
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🔹 Send HTTP requests (GET, POST, PUT, DELETE)
 - 🔹 Add custom headers (Authorization, tokens, etc.)
@@ -19,13 +19,13 @@ It allows developers to send HTTP requests, customize headers and body, and view
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
-👉 https://api-console-react.netlify.app/
+ https://api-console-react.netlify.app/
 
 ---
 
-## 🖥️ Preview
+##  Preview
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c99ff052-afda-46f2-bd45-1bebdd072d70" />
 
@@ -34,7 +34,7 @@ It allows developers to send HTTP requests, customize headers and body, and view
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** React.js
 - **Language:** JavaScript (ES6+)
@@ -43,7 +43,7 @@ It allows developers to send HTTP requests, customize headers and body, and view
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. Enter an API endpoint URL  
 2. Select HTTP method (GET, POST, PUT, DELETE)  
@@ -54,7 +54,7 @@ It allows developers to send HTTP requests, customize headers and body, and view
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
