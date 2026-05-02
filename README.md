@@ -39,7 +39,7 @@ It allows developers to send HTTP requests, customize headers and body, and view
 - **Frontend:** React.js
 - **Language:** JavaScript (ES6+)
 - **API Handling:** Fetch API
-- **Styling:** Inline CSS (custom UI design)
+- **Styling:** Inline CSS
 
 ---
 
