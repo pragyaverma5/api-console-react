@@ -15,7 +15,6 @@ It allows developers to send HTTP requests, customize headers and body, and view
 - 🔹 Copy response to clipboard
 - 🔹 Tab-based UI (Body / Headers)
 - 🔹 Error handling for invalid requests & JSON
-- 🔹 Clean and minimal developer-friendly UI
 
 ---
 
