@@ -24,15 +24,6 @@ It allows developers to send HTTP requests, customize headers and body, and view
 
 ---
 
-##  Preview
-
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c99ff052-afda-46f2-bd45-1bebdd072d70" />
-
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0e964c4b-d58b-4316-a835-b276a7e8af4c" />
-
-
----
-
 ##  Tech Stack
 
 - **Frontend:** React.js
